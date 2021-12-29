@@ -1,0 +1,52 @@
+{
+    "photos": [
+        {
+            "title": "Dunsfold 747",
+            "description": "This is a photo of an airplane sitting on a taxiway.",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/1.jpeg?raw=true"
+        },
+        {
+            "title": "Airbus A350 in tow",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/2.JPG?raw=true"
+        },
+        {
+            "title": "PA28 on grass",
+            "description": "Piper aircraft sitting on the grass on a cloudy day",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/3.jpeg?raw=true"
+        },
+        {
+            "title": "Retired 747s",
+            "description": "Airplanes awaiting to be retired",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/4.jpeg?raw=true"
+        },
+        {
+            "title": "Another PA28 on grass...with retractable gear",
+            "description": "",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/5.jpeg?raw=true"
+        },
+        {
+            "title": "Cessna in flight",
+            "description": "Photo depicting a Cessna in flight. The Cessna 205, 206, and 207, known primarily as the Stationair (and marketed variously as the Super Skywagon, Skywagon and Super Skylane) are a family of single-engined, general aviation aircraft with fixed landing gear, used in commercial air service as well as for personal use. The family was originally developed from the popular retractable-gear Cessna 210 and produced by the Cessna Aircraft Company.",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/6.jpeg?raw=true"
+        },
+        {
+            "title": "787 wing",
+            "description": "The wing of a Boeing 787",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/7.jpeg?raw=true"
+        },
+        {
+            "title": "747 awaiting departure",
+            "description": "",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/8.jpeg?raw=true"
+        },
+        {
+            "title": "787 at the gate",
+            "description": "",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/9.jpeg?raw=true"
+        },
+        {
+            "title": "Landing 747",
+            "urlString": "https://github.com/sorinc03/AirplanePhotos/blob/main/Photos/10.JPG?raw=true"
+        }
+    ]
+}
